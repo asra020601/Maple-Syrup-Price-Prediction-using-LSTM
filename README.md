@@ -68,7 +68,7 @@ The training script (`mapel3.py`) uses the preprocessed data to train the LSTM m
 
 ## Evaluation
 
-Model performance is evaluated using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE). The evaluation script (`evaluate.py`) assesses the model on the test set.
+Model performance is evaluated using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE). 
 
 ## Results
 
