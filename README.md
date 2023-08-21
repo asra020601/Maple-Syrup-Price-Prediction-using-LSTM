@@ -51,7 +51,7 @@ To set up and run the project, follow these steps:
 4. To make price predictions, run the prediction script:
 
    ```bash
-   python predict.py
+   python maple3.py
    ```
 
 ## Model Architecture
